@@ -1,6 +1,9 @@
-# Brain_tumor_classification
+# [Brain Tumor](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri) Classification 🧠
 
 `URL: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri`
+
+---
+This is my machine learning project while I was in university. This project helped me understand those very first steps in Computer Vision and AI field. I hope that it can help you guys too like it did me.
 
 ---
 ### Abstract ⚛
@@ -9,3 +12,11 @@ A Brain tumor is considered as one of the aggressive diseases, among children an
 Application of automated classification techniques using Machine Learning(ML) and Artificial Intelligence(AI)has consistently shown higher accuracy than manual classification. Hence, proposing a system performing detection and classification by using Deep Learning Algorithms using ConvolutionNeural Network (CNN), Artificial Neural Network (ANN), and TransferLearning (TL) would be helpful to doctors all around the world.
 
 ---
+### Data description ℹ
+- Dataset contains **3264** MRI images of 4 classes: ***glioma_tumor, meningioma_tumor, pituitary_tumor, no_tumor***
+- The mentioned images are divided into 2 folders: Training and Test. Training folder has **2870** images and Test folder has **394** images
+
+---
+### Some samples in dataset
+![image](https://github.com/ZaQuyn/Brain_tumor_classification/assets/86569856/0194fbf0-e372-4d87-9877-1ebfae2b65b1)
+
