@@ -17,7 +17,7 @@ Application of automated classification techniques using Machine Learning(ML) an
 - The mentioned images are divided into 2 folders: Training and Test. Training folder has **2870** images and Test folder has **394** images
 
 ---
-## Random samples in dataset
+## Random samples from the dataset
 ![image](https://github.com/ZaQuyn/Brain_tumor_classification/assets/86569856/0194fbf0-e372-4d87-9877-1ebfae2b65b1)
 
 ---
