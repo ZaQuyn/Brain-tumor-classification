@@ -3,7 +3,7 @@
 `URL: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri`
 
 ---
-This is my machine learning project while I was in university. This project helped me understand those very first steps in Computer Vision and AI field. The purpose of this project is to get me familiar with the workflow of an Image Classification project and to exclude the importance of accuracy nor any kinds of metrics (in case you want to improve model performance, you can try to add more layers, more neurons in a layer or even apply transfer learning, etc.). I hope that this repo can help you in your first steps just like it did for me, good luck to you all ❤.
+The purpose of this project is to get me familiar with the workflow of an Image Classification project and to exclude the importance of accuracy nor any kinds of metrics (in case you want to improve model performance, you can try to add more layers, more neurons in a layer or even apply transfer learning, etc.). I hope that this repo can help you in your first steps just like it did for me, good luck to you all ❤.
 
 ---
 ## Abstract ⚛
